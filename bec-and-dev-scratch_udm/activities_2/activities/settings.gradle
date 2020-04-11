@@ -1,0 +1,2 @@
+rootProject.name='Delta Activities'
+include ':app'
